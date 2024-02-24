@@ -1,0 +1,2 @@
+taskkill /PID X /F  --- in cmd ca admin + X inlocuit cu rezultat la netstat
+netstat -ano | findstr :8080  --- in cmd fara admi
